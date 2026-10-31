@@ -1,68 +1,80 @@
 <img width="1521" height="778" alt="{24864817-DEEA-4F81-9E36-A8BA5A5F0C31}" src="https://github.com/user-attachments/assets/4efe1978-e4e1-40e2-993f-5828494ad63d" />
 <img width="2556" height="1366" alt="{D432652F-0E45-4C50-9E4C-42A55F87E20A}" src="https://github.com/user-attachments/assets/3f69991f-19e9-4731-99b4-8961005aa2dc" />
-# 🌑 ShadowByte
+# 🟢 SHADOWBYTE
+### THE NEXT LEVEL STARTS HERE.
 
-Welcome to **ShadowByte**, a tool designed to provide a simple and easy-to-use experience.
+<p align="center">
+  **WELCOME TO SHADOWBYTE**
+</p>
+
+Welcome to **ShadowByte**! Follow the instructions below to gain access to the tool.
 
 ---
 
-## 📥 Installation
+## 📥 HOW TO DOWNLOAD SHADOWBYTE
 
-1. Download the latest version of ShadowByte from this repository.
-2. Extract the files if they are compressed.
-3. Open the ShadowByte application.
-4. You will need a login before accessing the tool.
+**You MUST join our Discord server to download ShadowByte.**
 
-## 🔑 Get Your Login
+### STEP 1 — JOIN DISCORD
+Join our official Discord server using the link below.
 
-**A login is required to use ShadowByte.**
+🟢 **[JOIN SHADOWBYTE DISCORD](https://discord.gg/shadowbyte)**
 
-Once you have downloaded the tool:
+### STEP 2 — VERIFY YOUR ACCOUNT
+Once inside the Discord server, head over to the verification channel and complete the verification process.
 
-1. Join our Discord server.
-2. Head over to the ticket section.
-3. Create a ticket.
-4. Ask staff for a login to ShadowByte.
-5. Wait for staff to provide your login details.
+### STEP 3 — DOWNLOAD SHADOWBYTE
+After successfully verifying, head to the designated download channel and download the latest version of ShadowByte.
 
-<kbd>Discord: https://discord.gg/shadowbyte</kbd>
+### STEP 4 — REQUEST YOUR LOGIN
+Once you have downloaded ShadowByte:
 
-## 📖 How To Use
+1. Head to the ticket section in Discord.
+2. Create a new support ticket.
+3. Tell staff: **"I need a login for ShadowByte."**
+4. Wait for a staff member to assist you.
+5. Once provided, enter your login details into the tool.
 
-1. Launch ShadowByte.
-2. Enter your login credentials.
-3. Wait for authentication.
-4. Follow the instructions displayed in the tool.
-5. Enjoy using ShadowByte!
+---
 
-If you experience any problems, open a support ticket in our Discord server.
+## 📜 RULES
 
-## 📜 Rules
+🟢 Do not share your login details.
 
-Please follow these rules when using ShadowByte:
+🟢 Do not sell or redistribute ShadowByte.
 
-- No sharing your account or login details.
-- No selling or trading accounts.
-- No redistributing or re-uploading the tool.
-- No attempting to bypass the login system.
-- Respect staff and other community members.
-- Do not abuse the tool or its features.
-- Educational purposes only.
+🟢 Do not attempt to bypass the authentication system.
+
+🟢 Respect staff and community members.
+
+🟢 Follow all Discord server rules.
+
+🟢 Educational purposes only.
 
 Breaking these rules may result in your access being revoked.
 
-## 🛠️ Support
+---
 
-Need help or having issues?
+## 🛠️ NEED HELP?
 
-Join our Discord and create a support ticket.
+Having trouble verifying, downloading or logging in?
 
-**[JOIN SHADOWBYTE DISCORD](https://discord.gg/shadowbyte)**
+Open a ticket in our Discord server and our staff will assist you.
+
+<p align="center">
+
+### 🟢 JOIN SHADOWBYTE TODAY
+
+**JOIN • VERIFY • DOWNLOAD • REQUEST LOGIN**
+
+[CLICK HERE TO JOIN DISCORD](https://discord.gg/shadowbyte)
+
+</p>
 
 ---
 
 <p align="center">
-  <b>🌑 SHADOWBYTE</b>
+  **SHADOWBYTE © 2026**
   <br>
-  Download • Join • Request Login • Get Started
+  <i>POWERED BY SHADOWBYTE</i>
 </p>
