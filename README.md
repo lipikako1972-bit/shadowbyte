@@ -1,3 +1,5 @@
+<img width="1521" height="778" alt="{24864817-DEEA-4F81-9E36-A8BA5A5F0C31}" src="https://github.com/user-attachments/assets/4efe1978-e4e1-40e2-993f-5828494ad63d" />
+<img width="2556" height="1366" alt="{D432652F-0E45-4C50-9E4C-42A55F87E20A}" src="https://github.com/user-attachments/assets/3f69991f-19e9-4731-99b4-8961005aa2dc" />
 # 🌑 ShadowByte
 
 Welcome to **ShadowByte**, a tool designed to provide a simple and easy-to-use experience.
